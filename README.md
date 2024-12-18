@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Akshai
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning cyber security
-- 💞️ I’m looking to collaborate with cyber security engineers
+- 💞️ I’m looking to collaborate with cyber security engineer
 - 📫 Reach me on akshaikumars123@gmail.com 
 - 😄 Pronouns: Akez
 - ⚡ Fun fact: fuddy
